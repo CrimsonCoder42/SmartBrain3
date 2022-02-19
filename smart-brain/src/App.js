@@ -8,7 +8,7 @@ import Particles from "react-tsparticles";
 import './App.css';
 
 const particlesOptions = {
-  
+
 }
 
 function App() {
@@ -70,8 +70,9 @@ function App() {
           enable: true,
           outMode: "bounce",
           random: false,
-          speed: 6,
-          straight: false
+          speed: 3,
+          straight: false,
+          bounce: false
         },
         number: {
           density: {
