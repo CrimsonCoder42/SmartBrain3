@@ -79,7 +79,7 @@ class App extends Component() {
             enable: true,
             outMode: "bounce",
             random: false,
-            speed: 1,
+            speed: 2,
             straight: false,
             bounce: false
           },
